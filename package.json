@@ -1,0 +1,11 @@
+{
+  "name": "mineflayer-kill-aura",
+  "version": "1.0.0",
+  "description": "Automatically kills mobs around the player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LabGuy94",
+  "license": "ISC"
+}
